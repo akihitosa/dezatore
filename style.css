@@ -1,0 +1,9 @@
+/*----- header ------- */
+.logo {
+    height: 40px;
+    width: 120px;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
