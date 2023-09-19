@@ -1,9 +1,23 @@
-/*----- header ------- */
+/* header
+------------------------------------*/
+
 .logo {
-    height: 40px;
     width: 120px;
+    margin-top: 10px;
 }
-.container {
+.main-nav {
+    display: flex;
+    font-size: 14.4px;
+    margin-top: 22px;
+}
+.main-nav li{
+    margin-left: 30px;
+}
+.page-header {
     display: flex;
     justify-content: space-between;
+}
+.wrapper {
+    max-width: 960px;
+    margin: 0 auto;
 }
