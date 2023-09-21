@@ -3,7 +3,7 @@
 
 .logo {
     width: 120px;
-    margin: 10px 0;
+    margin: 10px 0 10px 90px;
 }
 .main-nav {
     display: flex;
@@ -86,4 +86,9 @@ section h2 {
 }
 .bicycle p {
     margin-top: 10px;
+}
+
+footer {
+    margin-top: 108px;
+    text-align: center;
 }
