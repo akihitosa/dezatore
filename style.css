@@ -109,4 +109,23 @@ footer {
     .main-nav {
         margin-right: 15px;
     }
+    .profile {
+        display: block;
+    }
+    .profileimg{
+        display: block;
+        margin: auto;
+        }
+    .text {
+        padding: 10px;
+    }
+    .bicycle img {
+        width: 100%;
+        height: 100%;
+        padding: 0 15px;
+        margin-bottom: 7px;
+    }
+    .bicycle p {
+        margin: 5px 0 28px 0;
+    }
 }
